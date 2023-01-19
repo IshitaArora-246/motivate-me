@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motivate Me</string>
+    <string name="Hello_Rise_and_Shine">Hello, Rise and Shine</string>
+    <string name="Enter_your_name">Enter your name</string>
+    <string name="name">Name</string>
+    <string name="Motivate_Me">Motivate Me!</string>
+    <string name="Enter_you_name_first">Enter you name first</string>
+</resources>
